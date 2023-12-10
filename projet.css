@@ -1,0 +1,63 @@
+
+
+#labyrinthe tr {
+    height: 30px;
+}
+
+#labyrinthe td {
+    width: 30px;
+}
+
+.mur{
+
+width : 150% ; 
+height : 150% ; 
+background-image: url('image/mur.jpg');
+background-size : 100%;
+padding : 0;
+margin : 0;
+
+}
+
+.sol{
+
+
+width : 150% ; 
+height : 150% ; 
+background-image: url('image/chemin.jpg');
+background-size : 100%;
+padding:0;
+margin : 0;
+
+}
+
+.avatar{
+    width : 150% ; 
+    height : 150% ; 
+    background-image: url('image/chemin.jpg');
+    background-size : 100%;
+    padding:0;
+    margin : 0;
+}
+
+.avatare{
+    width : 80% ; 
+    height : 80% ;
+}
+
+.cobweb{
+    width : 150% ; 
+    height : 150% ; 
+    background-image: url('image/cobweb.png');
+    background-size : 100%;
+
+
+}
+.rock{
+    width : 150% ; 
+    height : 150% ; 
+    background-image: url('image/rock.png');
+    background-size : 100%;
+
+
+}
